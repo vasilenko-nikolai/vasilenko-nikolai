@@ -9,10 +9,10 @@
 
 ### ⚙️ Инструменты и технологии
 - 🐍 Python (FastAPI, Flask, asyncio)
-- 🗃️ PostgreSQL, Redis, RabbitMQ, Kafka
+- 🗃️ PostgreSQL, Redis, RabbitMQ, Kafka, ClickHouse
 - ⚡ WebSockets, Socket.IO  
 - 🧩 Docker, Linux, немного CI/CD  
-- 🎨 Vue 3, Pinia, Storybook, Jest, Vite
+- 🎨 Vue3, Pinia, Storybook, Jest, Vite
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ### 🧰 Среда
-- **Neovim** — основное рабочее место  
+- **Neovim** — основное рабочее место
 - **Linux** (да, я из тех)  
 - терминал + свежесваренный кофе = продуктивность  
 
