@@ -9,10 +9,10 @@
 
 ### ⚙️ Инструменты и технологии
 - 🐍 Python (FastAPI, Flask, asyncio)
-- 🗃️ PostgreSQL, Redis, RabbitMQ  
+- 🗃️ PostgreSQL, Redis, RabbitMQ, Kafka
 - ⚡ WebSockets, Socket.IO  
 - 🧩 Docker, Linux, немного CI/CD  
-- 🎨 Vue 3, Pinia, Storybook, Jest  
+- 🎨 Vue 3, Pinia, Storybook, Jest, Vite
 
 ---
 
@@ -30,14 +30,6 @@
 - терминал + свежесваренный кофе = продуктивность  
 
 *(кофе всегда готовлю сам)* ☕  
-
----
-
-### 📊 Немного статистики
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasilenko-nikolai&show_icons=true&hide_border=true&theme=transparent" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilenko-nikolai&layout=compact&hide_border=true&theme=transparent" height="150">
-</p>
 
 ---
 
